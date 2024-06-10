@@ -6,6 +6,7 @@ import 'package:news_app/utils/text.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 void showMyBottomSheet(
+    
     BuildContext context, String title, String description, imageurl, url) {
   showBottomSheet(
       backgroundColor: Colors.black,
